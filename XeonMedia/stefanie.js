@@ -1,3 +1,3 @@
 {
-	"name": "Stefanie Bot Multi Device "
+	"name": "Loser Bot Multi Device "
 }
